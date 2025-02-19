@@ -79,6 +79,12 @@ const formAction = () => {
     }
 }
 
+const updateImageLinks = () => {
+  document.querySelectorAll('img').forEach((img) => {
+    img.src = `https://raw.githubusercontent.com/maykbrito/my-public-files/main/nlw-19/${img.src}`
+  }) 
+}
+
 const startApp = () => {
     const content = `
     <form id="form">
@@ -91,7 +97,8 @@ const startApp = () => {
     `
 
     app.innerHTML = content
-
+    updateImageLinks()
+      
     formAction()
 }
 
