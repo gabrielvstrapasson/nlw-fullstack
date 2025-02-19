@@ -18,7 +18,14 @@ const users = [
     ref: 300,
     refBy: 100
   },
+  {
+    email: 'toast@toast.com',
+    phone: '9999999999',
+    ref: 400,
+    refBy: 100
+  },
 ]
+
 
 const getUser = (userData) =>{
   return users.find((user) => {
@@ -60,6 +67,7 @@ const showInvite = (userData) => {
         </p>
       </section>
   `
+  app.setAttribute('class', 'page-invite')
   updateImageLinks()
 
 
@@ -155,10 +163,11 @@ const startApp = () => {
     `
 
     app.innerHTML = content
+    app.setAttribute('classe', 'page-start')
     updateImageLinks()
     formAction()
 }
 
 startApp()
 
-document.getElementById("logo").onclick = () => startApp();
+document.querySelector("header").onclick = () => startApp();
