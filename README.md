@@ -1,4 +1,4 @@
-#**NLW Connect 2025 Project FullStack** - 19th Edition by **@Rockeseat**
+#**NLW Connect 2025 Project FullStack** - 19th Edition by **Rockeseat**
 
 ## 🚀 Technologies used
 - ![HTML](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
