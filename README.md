@@ -1,9 +1,9 @@
 #**NLW Connect 2025 Project FullStack** - 19th Edition by **Rockeseat**
 
 ## 🚀 Tecnologias
-- HTML
-- CSS
-- JAVASCRIPT
+- [HTML](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
+- [CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- [JAVASCRIPT](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
   
 - In the project I studied HTML, CSS, JAVASCRIPT. It was very good for my learning as I am new to software development.
 
